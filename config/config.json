@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0xDf544f0799367c699B53112E8149ca7C224D405C",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x81FB710AD179AF298576eba1Eea23b9248660A7c",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Test ",
+  "SYMBOL": "TOT",
+  "MAX_SUPPLY": 4000,
+  "Wl_SUPPLY": 1000,
+  "MAX_PER_TX_LIMIT": 2,
+  "GAS_LIMIT": 210000,
+  "COST_IN_WEI": 10000000000000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "LINKTREE": "https://linktr.ee/reservedsnow",
+  "WLENABLED": true,
+  "SHOW_BACKGROUND": true
+}
